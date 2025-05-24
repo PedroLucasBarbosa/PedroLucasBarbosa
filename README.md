@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">-Telematics Student at IFPB - Campina Grande, Brazil<br>- 20 years old<br>- I'm in fourth period<br>- Linux enthusiast<br>- I like programming<br>- I have worked in the Brazilian army in the IT department and I did an internship at a local internet provider in my city called ItLine.<br>- I am interested in the area of ​​software development and networks.</p>
+<p align="left">-Telematics Student at IFPB - Campina Grande, Brazil<br>- 21 years old<br>- I'm in fourth period<br>- Linux enthusiast<br>- I like programming<br>- I have worked in the Brazilian army in the IT department and I did an internship at a local internet provider in my city called ItLine.<br>- I am interested in the area of ​​software development and networks.</p>
 
 ###
 
