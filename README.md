@@ -2,7 +2,16 @@
 
 ###
 
-<p align="left">-Telematics Student at IFPB - Campina Grande, Brazil<br>- 21 years old<br>- I'm in fourth period<br>- Linux enthusiast<br>- I like programming<br>- I have worked in the Brazilian army in the IT department and I did an internship at a local internet provider in my city called ItLine.<br>- I am interested in the area of ​​software development and networks.</p>
+<p align="left">
+- Technologist in Telematics from the Instituto Federal da Paraíba (IFPB) – Campina Grande, Brazil<br>
+- 22 years old<br>
+- Able to work in the areas of Computer Networks, Telecommunications, Software Development, and Electronics<br>
+- Linux enthusiast<br>
+- Passionate about programming and technology<br>
+- Former IT department member of the Brazilian Army<br>
+- Former intern at a local Internet Service Provider (ISP) called ItLine<br>
+- Interested in software development and networking
+</p>
 
 ###
 
