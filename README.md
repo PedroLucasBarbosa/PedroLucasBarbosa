@@ -10,12 +10,11 @@
 <h2 align="left">About Me</h2>
 
 - 🎓 Technologist in Telematics from the Instituto Federal da Paraíba (IFPB) — 2022–2025
-- 📡 Experience with FTTH network projects, optical cable geo-referencing, and network performance analysis
-- 🛡️ Former Communications Operator in the Brazilian Army — IT infrastructure support and internal systems
 - ☁️ Building skills toward Cloud Computing and Software Development (AWS, Docker, Python, APIs)
+- 📊 Working with data through projects involving Python, SQL, Google Colab, and Jupyter Notebook
 - 🐧 Linux enthusiast, always exploring new tools and automating things with Shell Script and Python
-- 🌱 Interested in bridging networking/infrastructure knowledge with software development
-- 💬 Open to opportunities in Networks, Telecom, IT Support, Cloud, or Software Development
+- 🌱 Interested in growing further into Software Development, Cloud, and Data
+- 💬 Open to opportunities in Software Development, Cloud, and Data
 
 ###
 
@@ -99,7 +98,7 @@
 - AWS Academy Cloud Foundations
 - Cisco Networking Academy — Linux Administrator / Intermediate Linux
 - Python (Advanced) · Java (Intermediate) · JavaScript (Intermediate) · Shell Script (Intermediate)
-- Advanced Communications Operator · Intermediate FTTH Designer · Intermediate Databases
+- Intermediate Databases · Advanced Communications Operator · Intermediate FTTH Designer
 
 ###
 
@@ -118,10 +117,4 @@ Portuguese — Native &nbsp;|&nbsp; English — Intermediate &nbsp;|&nbsp; Spani
   <a href="mailto:pedrolucasifpb@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=PedroLucasBarbosa&show_icons=true&theme=default&hide_title=false" alt="GitHub stats" />
 </div>
