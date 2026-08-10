@@ -53,10 +53,10 @@
 <h2 align="left">📃 Badges</h2>
 
 <a href="https://www.credly.com/badges/8fa6c93b-499c-4411-abdc-d455c2171777" target="_blank">
-  <img src="https://images.credly.com/images/e3541a0c-dd4a-4820-8052-5001006efc85/linkedin_thumb_blob" alt="AWS Academy Graduate - Cloud Foundations" width="120" />
+  <img src="https://images.credly.com/images/e3541a0c-dd4a-4820-8052-5001006efc85/linkedin_thumb_blob" alt="AWS Academy Graduate - Cloud Foundations" width="120" height="120" />
 </a>
 <a href="https://www.credly.com/earner/earned/badge/1b835a7b-7ee6-4771-8a5a-30c0c2f5f08b" target="_blank">
-  <img src="https://images.credly.com/images/5bca6dc6-1e23-4f72-9368-dbc0cbf8b5cc/blob" alt="Building GenAI Applications with MongoDB" width="120" />
+  <img src="https://images.credly.com/images/5bca6dc6-1e23-4f72-9368-dbc0cbf8b5cc/blob" alt="Building GenAI Applications with MongoDB" width="120" height="120" />
 </a>
 
 ###
