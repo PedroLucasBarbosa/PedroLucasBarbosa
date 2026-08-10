@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Pedro Lucas Barbosa 👋</h1>
-<h3 align="center">Telematics Technologist | Networks & Telecom | Cloud & Software Development</h3>
+<h3 align="center">Cloud & Software Development | Data | Networks & Telecom</h3>
 
 <p align="center">
 📍 Campina Grande, Paraíba, Brazil &nbsp;|&nbsp; 📧 pedrolucasifpb@gmail.com
@@ -50,6 +50,16 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</div>
+
+**Data**
+<div align="left">
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 </div>
 
 ###
