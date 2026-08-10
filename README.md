@@ -46,7 +46,7 @@
 
 ###
 
-<h2 align="left">📜 Certification</h2>
+<h2 align="left">📜 Badges</h2>
 
 <a href="https://www.credly.com/badges/8fa6c93b-499c-4411-abdc-d455c2171777" target="_blank">
   <img src="https://images.credly.com/images/e3541a0c-dd4a-4820-8052-5001006efc85/linkedin_thumb_blob" alt="AWS Academy Graduate - Cloud Foundations" width="120" />
