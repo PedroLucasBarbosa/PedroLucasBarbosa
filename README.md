@@ -92,8 +92,6 @@
 | **[BackupAutomatizado](https://github.com/PedroLucasBarbosa/BackupAutomatizado)** | Automated backup system built with Shell Script for file copying, organization, and management on Linux |
 | **[Universidade_Java](https://github.com/PedroLucasBarbosa/Universidade_Java)** | Java project using OOP concepts to manage academic/university information |
 
-> ⚠️ Ajuste os links acima caso os nomes dos repositórios no GitHub sejam diferentes dos listados no currículo.
-
 ###
 
 <h2 align="left">📜 Certifications</h2>
