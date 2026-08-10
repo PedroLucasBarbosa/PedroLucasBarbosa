@@ -125,5 +125,5 @@ Portuguese — Native &nbsp;|&nbsp; English — Intermediate &nbsp;|&nbsp; Spani
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PedroLucasBarbosa&show_icons=true&theme=default&hide_title=false" alt="GitHub stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=PedroLucasBarbosa&show_icons=true&theme=default&hide_title=false" alt="GitHub stats" />
 </div>
