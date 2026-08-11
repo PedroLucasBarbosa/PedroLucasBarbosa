@@ -44,7 +44,7 @@
   <img src="https://images.credly.com/images/5bca6dc6-1e23-4f72-9368-dbc0cbf8b5cc/blob" alt="Building GenAI Applications with MongoDB" width="150" />
 </a>
 <a href="https://www.credly.com/badges/a8ce1191-9a31-4e64-9a72-c48ce531bcd1/public_url" target="_blank">
-  <img src="https://images.credly.com/images/a0be2f0e-da12-4970-b4c5-8e31e43f5f9a/blob" alt="Analyze BigQuery Data in Connected Sheets Skill Badge - Google Cloud" width="150" />
+  <img src="https://images.credly.com/images/75208396-7fbe-437e-8a42-46277d642697/blob" alt="Analyze BigQuery Data in Connected Sheets Skill Badge - Google Cloud" width="150" />
 </a>
 ###
 <h2 align="left">📫 Connect with Me</h2>
