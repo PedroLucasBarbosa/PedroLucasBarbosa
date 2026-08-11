@@ -46,7 +46,6 @@
 <a href="https://www.credly.com/earner/earned/badge/a8ce1191-9a31-4e64-9a72-c48ce531bcd1" target="_blank">
   <img src="https://images.credly.com/images/75208396-7fbe-437e-8a42-46277d642697/twitter_thumb_201604_image.png" alt="Analyze BigQuery Data in Connected Sheets Skill Badge - Google Cloud" width="150" />
 </a>
-###
 <h2 align="left">📫 Connect with Me</h2>
 <div align="left">
   <a href="https://www.linkedin.com/in/pedro-lucas-barbosa-costa-a3a945326/" target="_blank">
