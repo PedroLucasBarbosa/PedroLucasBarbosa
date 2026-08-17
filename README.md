@@ -53,6 +53,19 @@
 
 <br>
 
+**Data Analytics & BI**
+<div align="left">
+  <img src="https://img.shields.io/badge/Data_Analysis-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Analytics-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Business_Intelligence-34A853?style=for-the-badge&logo=powerbi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Visualization-FBBC05?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Modeling-EA4335?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Transformation-4285F4?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Project_Management-34A853?style=for-the-badge&logo=trello&logoColor=white" />
+</div>
+
+<br>
+
 **AI & GenAI**
 <div align="left">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
@@ -72,6 +85,9 @@
 </a>
 <a href="https://www.credly.com/earner/earned/badge/a8ce1191-9a31-4e64-9a72-c48ce531bcd1" target="_blank">
   <img src="https://images.credly.com/images/75208396-7fbe-437e-8a42-46277d642697/twitter_thumb_201604_image.png" alt="Analyze BigQuery Data in Connected Sheets Skill Badge - Google Cloud" width="150" />
+</a>
+<a href="https://www.credly.com/badges/4f671372-7643-45da-9d14-fc4b65e6e386/public_url" target="_blank">
+  <img src="https://images.credly.com/images/f53c1eb6-d93d-4b9e-ae34-922046f6b15c/linkedin_thumb_image.png" alt="Google Cloud Data Analytics Certificate" width="150" />
 </a>
 
 <br>
