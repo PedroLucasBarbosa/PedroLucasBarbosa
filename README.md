@@ -87,7 +87,7 @@
   <img src="https://images.credly.com/images/75208396-7fbe-437e-8a42-46277d642697/twitter_thumb_201604_image.png" alt="Analyze BigQuery Data in Connected Sheets Skill Badge - Google Cloud" width="150" />
 </a>
 <a href="https://www.credly.com/badges/4f671372-7643-45da-9d14-fc4b65e6e386/public_url" target="_blank">
-  <img src="https://images.credly.com/images/f53c1eb6-d93d-4b9e-ae34-922046f6b15c/linkedin_thumb_image.png" alt="Google Cloud Data Analytics Certificate" width="215" />
+  <img src="https://images.credly.com/images/f53c1eb6-d93d-4b9e-ae34-922046f6b15c/linkedin_thumb_image.png" alt="Google Cloud Data Analytics Certificate" width="250" />
 </a>
 
 <br>
