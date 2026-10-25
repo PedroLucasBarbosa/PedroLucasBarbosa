@@ -7,7 +7,7 @@
 <br>
 
 - 🎓 Telematics Technologist (IFPB) &nbsp;·&nbsp; ☁️ Cloud & Software Dev &nbsp;·&nbsp; 📊 Data
-- 🐧 Linux enthusiast &nbsp;·&nbsp; 💬 Open to Software, Cloud & Data opportunities
+- 🐧 Linux enthusiast &nbsp;·&nbsp;
 
 <br>
 
